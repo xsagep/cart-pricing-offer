@@ -68,7 +68,7 @@ php vendor/bin/phpunit tests/CartTest.php
 
 1. Clone the repository to your local machine:
    ```
-   git clone [<repository_url>](https://github.com/xsagep/cart-pricing-offer)
+   git clone https://github.com/xsagep/cart-pricing-offer
    cd cart-pricing-offer
    ```
 2. Install dependencies (if applicable):
