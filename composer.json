@@ -1,0 +1,18 @@
+{
+    "name": "xsagep/cart-pricing-offer",
+    "description": "Cart Pricing & Offer Example",
+    "autoload": {
+        "psr-4": {
+            "Xsagep\\CartPricingOffer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xsagep",
+            "email": "huseyingun@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10.0"
+    }
+}
