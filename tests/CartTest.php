@@ -1,6 +1,6 @@
 <?php
 
-require_once 'CartPricingOffer.php'; // Gerekli dosyayı dahil edin
+require_once 'CartPricingOffer.php';
 
 use PHPUnit\Framework\TestCase;
 
